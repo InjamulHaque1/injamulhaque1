@@ -1,16 +1,30 @@
 # Hi there 👋, I'm Injamul Haque Navid!
 
-Welcome to my GitHub profile! I’m a developer passionate about [Your Interests]. Here you’ll find a showcase of my favorite projects, open-source contributions, and technologies I love working with.
+Welcome to my GitHub profile! I’m a developer passionate about web development, machine learning, and building impactful applications. Here you’ll find a showcase of my favorite projects, open-source contributions, and technologies I love working with.
 
 ---
+
 ## 🖥️ Languages in My Repositories
 
 | Language       | Repositories | Description |
 |----------------|--------------|-------------|
-| ![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)         | [Repo Name 1](https://github.com/username/repo1), [Repo Name 2](https://github.com/username/repo2) | Primarily used for backend development and data analysis. |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=white) | [Repo Name 3](https://github.com/username/repo3) | Frontend projects, web development, and interactive UI. |
-| ![Django](https://img.shields.io/badge/-Django-333?logo=django&logoColor=white) | [Repo Name 4](https://github.com/username/repo4) | Used for building robust web applications. |
-| ![C++](https://img.shields.io/badge/-C++-333?logo=cplusplus&logoColor=white)     | [Repo Name 5](https://github.com/username/repo5) | Performance-oriented applications and systems programming. |
+| ![Python and Web](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)         | [A* Maze](https://github.com/InjamulHaque1/A-Star-Maze), [Eseba](https://github.com/InjamulHaque1/eseba), [Smart Predictor](https://github.com/InjamulHaque1/SmartPredictor) | Primarily used for backend development and machine learning. |
+| ![SQL](https://img.shields.io/badge/-SQL-333?logo=postgresql&logoColor=white)     | [Database Project](https://github.com/InjamulHaque1/2-2-DatabaseProject) | A student database management project using SQL Server. |
+| ![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)     | [Donut Wait](https://github.com/InjamulHaque1/DonutWaitProject) | A C-based canteen management system with a game feature. |
+
+---
+
+## 🧑‍💻 Skills
+
+| Skill             | Description |
+|-------------------|-------------|
+| **Web Development**      | Experienced in building dynamic web applications using Django and other frameworks. |
+| **Machine Learning**     | Proficient in creating predictive models and analyzing data using Python libraries. |
+| **Database Management**  | Skilled in SQL for creating and managing efficient databases. |
+| **Algorithms & Data Structures** | Strong understanding of algorithms, with hands-on projects like A* pathfinding. |
+| **C Programming**        | Proficient in C for building systems-level applications and performance-oriented projects. |
+
+---
 
 ## 🌐 Find Me Here
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
