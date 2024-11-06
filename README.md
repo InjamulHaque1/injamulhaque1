@@ -14,23 +14,52 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 
 ---
 
-## 🧑‍💻 Skills
+## 🧑‍💻 My Skills
 
-| Skill             | Description |
-|-------------------|-------------|
-| **Web Development**      | Experienced in building dynamic web applications using Django and other frameworks. |
-| **Machine Learning**     | Proficient in creating predictive models and analyzing data using Python libraries. |
-| **Database Management**  | Skilled in SQL for creating and managing efficient databases. |
-| **Algorithms & Data Structures** | Strong understanding of algorithms, with hands-on projects like A* pathfinding. |
-| **C Programming**        | Proficient in C for building systems-level applications and performance-oriented projects. |
-
----
-
-## 🌐 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourprofile)
-[![Website](https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=white&style=flat)](https://yourwebsite.com)
+| Skill                 | Level    | Description |
+|-----------------------|----------|-------------|
+| **Web Development**   | Advanced | Building dynamic websites with Django, responsive UI, and REST APIs. |
+| **Machine Learning**  | Intermediate | Creating predictive models, feature engineering, and data analysis. |
+| **Database Management** | Advanced | Efficient database design and optimization with SQL. |
+| **Algorithms & Data Structures** | Advanced | Strong understanding and implementation in competitive programming and A* pathfinding. |
+| **System Programming** | Intermediate | Writing performance-oriented code in C for low-level applications. |
 
 ---
 
-Thank you for visiting my profile! I’m always open to new ideas and collaborations. 😊
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InjamulHaque1&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InjamulHaque1&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InjamulHaque1&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Created a new repository: [Eseba](https://github.com/InjamulHaque1/eseba)
+2. 🚀 Pushed updates to [A* Maze](https://github.com/InjamulHaque1/A-Star-Maze)
+3. 🛠️ Opened an issue in [Donut Wait](https://github.com/InjamulHaque1/DonutWaitProject)
+<!--END_SECTION:activity-->
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/injamulhaque" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/injamulhaque" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="Twitter"/>
+  </a>
+  <a href="https://injamulhaque.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-333?logo=google-chrome&logoColor=white&style=flat" alt="Website"/>
+  </a>
+</p>
+
+---
+
+Thank you for visiting my profile! Let's connect, collaborate, and create something amazing together. 😊
