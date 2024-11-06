@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InjamulHaque1&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InjamulHaque1&theme=radical" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InjamulHaque1&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=InjamulHaque1&show_icons=true&theme=default&bg_color=FFFFFF&hide_border=true" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InjamulHaque1&theme=default&background=FFFFFF&hide_border=true" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InjamulHaque1&layout=compact&theme=default&bg_color=FFFFFF&hide_border=true" alt="Top Languages" width="500"/>
 </p>
 
 ---
