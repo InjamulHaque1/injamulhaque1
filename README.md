@@ -16,13 +16,14 @@ Welcome to my GitHub profile! I’m a developer passionate about web development
 
 ## 🧑‍💻 My Skills
 
-| Skill                 | Level    | Description |
-|-----------------------|----------|-------------|
-| **Web Development**   | Advanced | Building dynamic websites with Django, responsive UI, and REST APIs. |
-| **Machine Learning**  | Intermediate | Creating predictive models, feature engineering, and data analysis. |
-| **Database Management** | Advanced | Efficient database design and optimization with SQL. |
-| **Algorithms & Data Structures** | Advanced | Strong understanding and implementation in competitive programming and A* pathfinding. |
-| **System Programming** | Intermediate | Writing performance-oriented code in C for low-level applications. |
+| Skill                 | Level       | Description |
+|-----------------------|-------------|-------------|
+| **Web Development**   | <progress value="80" max="100"></progress> 90% | Building dynamic websites with Django, HTML, CSS, TailwindCSS, JavaScript etc |
+| **Machine Learning**  | <progress value="55" max="100"></progress> 75% | Creating predictive models, feature engineering, and data analysis. |
+| **Database Management** | <progress value="75" max="100"></progress> 85% | Efficient database design and optimization with SQL. |
+| **Algorithms & Data Structures** | <progress value="80" max="100"></progress> 90% | Strong understanding and implementation in competitive programming and A* pathfinding. |
+| **System Programming** | <progress value="70" max="100"></progress> 70% | Writing performance-oriented code in C for low-level applications. |
+
 
 ---
 
